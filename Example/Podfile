@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LocalFramework07_Tests' do
+  pod 'LocalFramework07', :path => '../'
+  
+  
+end
