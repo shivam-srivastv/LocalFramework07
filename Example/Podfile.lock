@@ -1,0 +1,16 @@
+PODS:
+  - LocalFramework07 (0.1.0)
+
+DEPENDENCIES:
+  - LocalFramework07 (from `../`)
+
+EXTERNAL SOURCES:
+  LocalFramework07:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LocalFramework07: 69f2d6829fcf669a960978eef311e64f3d0b13d4
+
+PODFILE CHECKSUM: b0137eb6677fb73b813581a7570f2e74a65b21d4
+
+COCOAPODS: 1.10.1

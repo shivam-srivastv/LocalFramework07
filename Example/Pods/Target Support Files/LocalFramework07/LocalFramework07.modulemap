@@ -1,0 +1,6 @@
+framework module LocalFramework07 {
+  umbrella header "LocalFramework07-umbrella.h"
+
+  export *
+  module * { export * }
+}
